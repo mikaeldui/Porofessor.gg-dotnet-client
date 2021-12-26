@@ -1,2 +1,2 @@
-# Porofessor.gg-dotnet-client
-A .NET client for Porofessor.gg.
+# Porofessor.gg .NET Client
+A .NET client for [Porofessor.gg](https://porofessor.gg/).
